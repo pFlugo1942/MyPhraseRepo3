@@ -4,7 +4,7 @@ phrase:
     sources:
     - file: ./source-locale/main/android-strings/strings.xml
       params:
-        file_format: xml
+        file_format: android
         locale_id: en
         update_translations: true
   pull:
@@ -12,16 +12,16 @@ phrase:
     - file: ./translation-files/de/strings.xml
       params:
         locale_id: de
-        file_format: xml
+        file_format: android
     - file: ./translation-files/es/strings.xml
       params:
         locale_id: es
-        file_format: xml
+        file_format: android
     - file: ./translation-files/el/strings.xml
       params:
         locale_id: el
-        file_format: xml
+        file_format: android
     - file: ./source-locale/main/android-strings/strings.xml
       params:
         locale_id: en
-        file_format: xml
+        file_format: android

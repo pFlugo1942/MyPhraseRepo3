@@ -1,5 +1,5 @@
 phrase:
-  project_id: daec31f3d59d8f0bf5c9fd80b48e6c4b
+  project_id: 23f9f82fbb097f7291b6f952d9d7de52
   push:
     sources:
     - file: ./source-locale/main/android-strings/strings.xml

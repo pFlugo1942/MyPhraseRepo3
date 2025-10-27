@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name_repo2">OTA Example - Two</string>
-    <string name="hello_world_repo2">Hello World - Two</string>
-    <string name="app_subtitle_repo2">from Phrase - Two</string>
+    <string name="app_name_repo1">OTA Example - Two</string>
+    <string name="hello_world_repo1">Hello World - Two</string>
+    <string name="app_subtitle_repo1">from Phrase - Two</string>
 </resources>
